@@ -1,4 +1,4 @@
-# FoodOrderPlatform
+# GetMeFood
 
 Welcome to FoodOrderPlatform, a digital platform designed to provide a seamless experience for food order placement. This project features an intuitive front-end interface with dynamic carousels, showcasing menu items that are automatically tailored based on user search parameters. The platform includes robust functionality, such as shopping cart capabilities, dynamic menus, and user account management with secure JWT authentication.
 
